@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 😆 I'm Zhibin Ye, 叶志彬 in Chinese.
-- 🏫 I'm an undergraduate student majoring in **Computer Science (CS)**, currently studying **Data Structures** and **Embedded Systems Development**.
+- 🏫 I'm an undergraduate student majoring in CS, currently studying **Data Structures** and **Embedded Systems Development**.
 - 📫 How to reach me: [hyfrancn@gmail.com](mailto:hyfrancn@gmail.com).
 
 <div align="center"> 
