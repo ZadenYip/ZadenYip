@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     height="220"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZadenYip&hide=html,css,CMake,BitBake,Makefile&theme=transparent&layout=donut&role=OWNER,ORGANIZATION_MEMBER"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZadenYip&hide=html,css,CMake,BitBake,Makefile&theme=transparent&layout=donut&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
     alt="My Language stats"
     height="220"
   />
