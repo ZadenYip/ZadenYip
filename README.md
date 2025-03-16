@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 😆 I'm Zhibin Ye, 叶志彬 in Chinese.
 - 🏫 I'm an undergraduate student majoring in CS, currently studying **Computer Networking** and **Embedded Systems Development**.
-- 📫 How to reach me: [hyfrancn@gmail.com](mailto:hyfrancn@gmail.com).
+- 📫 How to reach me: [hyfrencn@gmail.com](mailto:hyfrencn@gmail.com).
 
 <div align="center"> 
   <img 
