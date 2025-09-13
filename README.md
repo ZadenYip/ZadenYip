@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😆 I'm Zhibin Ye, 叶志彬 in Chinese.
-- 🏫 I'm an undergraduate student majoring in CS, currently studying **Computer Networking** and **Embedded Systems Development**.
+- 😆 I'm Zhibin Ye (叶志彬 in Chinese). Being from Guangdong, I chose the English name Zaden, while keeping the common Cantonese-derived family name Yip.
+- 🏫 I'm an undergraduate student majoring in CS, currently studying **Operating System** and **Machine Learning**.
 - 📫 How to reach me: [hyfrencn@gmail.com](mailto:hyfrencn@gmail.com).
 
 <div align="center"> 
