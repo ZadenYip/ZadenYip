@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 😆 I'm Zhibin Ye (叶志彬 in Chinese). Being from Guangdong, I chose the English name Zaden, while keeping the common Cantonese-derived family name Yip.
-- 🏫 I'm an undergraduate student majoring in CS, currently studying **Operating System** and **Machine Learning**.
+- 🏫 I'm a Computer Science undergraduate passionate about learning what I love and exploring freely.
 - 📫 How to reach me: [hyfrencn@gmail.com](mailto:hyfrencn@gmail.com).
 
 <div align="center"> 
